@@ -1,0 +1,11 @@
+Before writing the code :
+Make a firebase account
+Add your project on firebase as follows:
+Android Studio-> Your project-> Tools-> Firebase->
+click on authenticating email and password ->set up firebase
+->add dependency
+Done.You can see your project in your firebase console.
+open it
+click on sign in method ->enable google sign in
+Make sure google play services is installed in your android project as Tools->SDK Manager ->SDK Tools and update ->Install it
+make sure google-services.json file is now present in Project->App
